@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Nacho\\GITHUB\\NNs-mnist-tf\\nn\\TFL-mnist.model"
+all_model_checkpoint_paths: "C:\\Users\\Nacho\\GITHUB\\NNs-mnist-tf\\nn\\TFL-mnist.model"
